@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.25.12.25/iphone/TongQuanDai.ipa</string>
+					<string>http://www.catong.cn:88/app/zxvisa.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mgear.TongQuanDai</string>
+				<string>zx.com.zxvisa</string>
 				<key>bundle-version</key>
-				<string>0.1.0019</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
